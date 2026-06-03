@@ -132,13 +132,12 @@ Computer vision system for automated jewellery defect detection using YOLOv8.
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=sanjaicrv\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sanjaicrv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sanjaicrv\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaicrv\&theme=tokyonight\&hide_border=true\&layout=compact)
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaicrv&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 ---
 
