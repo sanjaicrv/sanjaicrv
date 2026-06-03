@@ -1,132 +1,191 @@
-# Sanjai CRV
+# Hi, I'm Sanjai CRV 👋
 
-Software Engineering Student focused on backend engineering, scalable systems, and full-stack application development.
+<div align="center">
 
-I enjoy building production-oriented software with clean architecture, optimized backend systems, and strong engineering fundamentals. My primary interests are in Java backend development, system design, REST API architecture, and performance-focused applications.
+### Backend-Focused Full Stack Developer • Java Engineer • System Design Enthusiast
 
-Currently pursuing B.Tech in Information Technology at Sri Krishna College of Technology, Coimbatore.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Spring+Boot+%7C+React+%7C+MySQL;Passionate+About+Clean+Architecture;DSA+%7C+System+Design+%7C+Cloud+Engineering" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanjai_CRV-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sanjai-crv-3b4813292)
+[![GitHub](https://img.shields.io/badge/GitHub-sanjaicrv-181717?style=for-the-badge\&logo=github\&logoColor=white)
+](https://github.com/sanjaicrv)
+[![LeetCode](https://img.shields.io/badge/LeetCode-300%2B_Problems-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/)
+[![Email](https://img.shields.io/badge/Email-sanjaicrv05%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sanjaicrv05@gmail.com)
+
+</div>
 
 ---
 
-## About Me
+# 💫 About Me
 
-* Backend-focused developer with strong experience in Java and Spring Boot
-* Passionate about scalable architectures, API design, and clean code practices
-* Strong understanding of Operating Systems, DBMS, Computer Networks, OOP, and System Design
-* Consistent problem solver with 300+ LeetCode problems solved
-* Interested in building software that balances performance, maintainability, and real-world usability
-* Exploring cloud deployment, containerization, and AI-powered systems
+```java
+public class SanjaiCRV {
+
+    String role = "Backend-Focused Full Stack Developer";
+
+    String[] interests = {
+        "Scalable Backend Systems",
+        "System Design",
+        "REST API Architecture",
+        "Cloud Deployment",
+        "Low-Level Design"
+    };
+
+    String currentFocus = "Building production-grade applications with clean architecture";
+
+    String mindset = "Write code that scales, performs, and stays maintainable.";
+}
+```
+
+* 🎓 B.Tech Information Technology @ Sri Krishna College of Technology
+* ⚡ Strong foundation in **Java, Spring Boot, DBMS, OS, CN, and System Design**
+* 🧠 Solved **300+ LeetCode Problems**
+* 🚀 Passionate about scalable backend engineering and clean architecture
+* 🔥 Interested in high-performance systems and real-world software engineering
 
 ---
 
-## Tech Stack
+# 🛠 Tech Stack
+
+<div align="center">
 
 ### Languages
 
-`Java` `Python` `C++` `SQL`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ### Backend & Full Stack
 
-`Spring Boot` `Spring Security` `JPA/Hibernate` `REST APIs` `React.js` `TypeScript`
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
+![Hibernate](https://img.shields.io/badge/JPA%2FHibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge)
 
-### Databases & Cloud
+### Database, Cloud & Tools
 
-`MySQL` `AWS EC2` `AWS S3` `Docker` `Render` `Vercel`
-
-### Tools & Engineering
-
-`Git` `Postman` `Swagger UI` `JWT Authentication`
-
-### Core Computer Science
-
-`Data Structures & Algorithms` `Low-Level Design` `System Design` `OOP` `Operating Systems` `DBMS` `Computer Networks`
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ### AI / Computer Vision
 
-`YOLOv8` `OpenCV` `Roboflow` `Computer Vision`
+![YOLO](https://img.shields.io/badge/YOLOv8-7B68EE?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge\&logo=opencv\&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-00C853?style=for-the-badge)
+
+</div>
 
 ---
 
-# Featured Projects
+# 🚀 Featured Projects
 
-## FinTrack Pro — Full-Stack Personal Finance Platform
+## 💰 FinTrack Pro — Full Stack Finance Platform
 
-Production-grade finance management platform built using React, Spring Boot, MySQL, and JWT authentication.
+Production-grade finance management platform built using Spring Boot, React, MySQL, and JWT authentication.
 
-### Highlights
+### Key Highlights
 
-* Designed and developed 15+ secured RESTful APIs
-* Implemented JWT authentication and role-based backend security
-* Built income/expense tracking, savings goals, and analytics dashboards
-* Optimized MySQL query performance using indexing and JOIN optimization
-* Containerized backend using Docker and deployed on cloud platforms
-* Delivered complete Swagger API documentation
+* 🔐 Built secure authentication and authorization using JWT + Spring Security
+* 📊 Developed real-time analytics dashboards for financial tracking
+* ⚡ Optimized database queries by 40% using indexing and JOIN optimization
+* 🐳 Dockerized backend and deployed on cloud platforms
+* 📄 Delivered complete Swagger API documentation
 
-**Tech Used:**
-`Spring Boot` `React.js` `TypeScript` `MySQL` `Docker` `JWT`
-
----
-
-## Parking Lot Management System — Low-Level Design
-
-Scalable parking management system designed using SOLID principles and object-oriented design patterns.
-
-### Highlights
-
-* Implemented Strategy, Factory, and Singleton design patterns
-* Achieved O(1) slot allocation using HashMap indexing
-* Supported EV-priority allocation, nearest-slot allocation, and multi-floor parking
-* Designed clean layered architecture with highly testable components
-* Simulated 1000+ concurrent operations efficiently
-
-**Tech Used:**
-`Java` `OOP` `Collections Framework` `Design Patterns`
+**Tech Stack:**
+`Spring Boot` `React.js` `TypeScript` `MySQL` `Docker`
 
 ---
 
-## AI-Powered Jewellery Defect Detection System
+## 🅿️ Parking Lot Management System — Low-Level Design
 
-Computer vision-based industrial inspection system for automated jewellery defect detection.
+Scalable parking system designed using SOLID principles and object-oriented design patterns.
 
-### Highlights
+### Key Highlights
 
-* Building real-time defect detection using YOLOv8 and OpenCV
-* Created preprocessing and augmentation pipelines for high-resolution datasets
-* Working on confidence-based inference and visualization dashboard
-* Targeting significant reduction in manual inspection effort
+* 🧩 Implemented Strategy, Factory, and Singleton design patterns
+* ⚡ Achieved O(1) slot allocation using optimized HashMap indexing
+* 🚗 Supported EV-priority and nearest-slot allocation strategies
+* 🏗 Designed clean layered architecture for scalability and maintainability
 
-**Tech Used:**
+**Tech Stack:**
+`Java` `OOP` `Design Patterns` `Collections Framework`
+
+---
+
+## 💎 AI-Powered Jewellery Defect Detection System
+
+Computer vision system for automated jewellery defect detection using YOLOv8.
+
+### Key Highlights
+
+* 🤖 Developing industrial inspection pipeline using YOLOv8 + OpenCV
+* 🧠 Implemented preprocessing and augmentation workflows
+* 📦 Building real-time inference dashboard with confidence visualization
+* 🎯 Targeting significant reduction in manual inspection effort
+
+**Tech Stack:**
 `Python` `YOLOv8` `OpenCV` `Roboflow`
 
 ---
 
-## Achievements
+# 🏆 Achievements
 
-* 4th Place — Netrix'25 Codethon at KPR Institute
-* Finalist — Yugam 2025 Competitive Coding Event
-* Participant — Smart India Hackathon 2024
-* Attended NLP Workshop conducted by Microsoft, Bangalore
-* Solved 300+ LeetCode problems across major DSA topics
-
----
-
-## Current Focus
-
-* Advanced Spring Boot backend engineering
-* System Design & scalable architectures
-* Cloud-native application deployment
-* Low-Level Design and design patterns
-* Full-stack product development
-* Competitive programming and interview preparation
+* 🥇 4th Place — Netrix'25 Codethon at KPR Institute
+* 🚀 Finalist — Yugam 2025 Competitive Coding Event
+* 🛡 Participant — Smart India Hackathon 2024
+* 🧠 NLP Workshop Participant — Microsoft Bangalore
+* 💻 Solved 300+ LeetCode Problems across major DSA topics
 
 ---
 
-## Connect With Me
+# 📈 Current Focus
 
-* LinkedIn: [www.linkedin.com/in/sanjai-crv-3b4813292](http://www.linkedin.com/in/sanjai-crv-3b4813292)
-* GitHub: github.com/sanjaicrv
-* Email: [sanjaicrv05@gmail.com](mailto:sanjaicrv05@gmail.com)
+* Advanced Spring Boot Backend Engineering
+* Scalable System Design
+* Cloud-Native Application Development
+* Low-Level Design & Design Patterns
+* Performance Optimization
+* Competitive Programming & Interview Preparation
 
 ---
 
-> I believe good software is not just about making things work — it’s about building systems that remain reliable, scalable, and maintainable as they grow.
+# 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=sanjaicrv\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=sanjaicrv\&theme=tokyonight\&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaicrv\&theme=tokyonight\&hide_border=false\&layout=compact)
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sanjai-crv-3b4813292)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/sanjaicrv)
+
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sanjaicrv05@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### "Good software is built twice — first in design, then in code."
+
+</div>
