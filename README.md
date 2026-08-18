@@ -1,4 +1,4 @@
-````markdown
+
 # Hi, I'm Sanjai CRV 👋
 
 <div align="center">
@@ -268,4 +268,4 @@ you build** is becoming just as important as knowing a particular framework.
 *"Turning problems into practical software with AI and engineering fundamentals."*
 
 </div>
-```
+
