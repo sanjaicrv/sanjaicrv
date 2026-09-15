@@ -4,7 +4,7 @@
 
 ### Backend-Focused Full Stack Developer • Java Engineer • System Design Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Java+%7C+Spring+Boot+%7C+MySQL;REST+APIs+%7C+Spring+Security;Clean+Architecture+%7C+System+Design" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Backend+Focused;Java+%7C+Spring+Boot+%7C+React.js;REST+APIs+%7C+Spring+Security+%7C+MySQL;Building+Scalable+Full-Stack+Applications" />
 
 <br/>
 
@@ -19,18 +19,23 @@
 
 ## 👨‍💻 About Me
 
-I'm a **B.Tech Information Technology student** at Sri Krishna College of Technology, Coimbatore, with a strong interest in **backend engineering, scalable systems, and software development**.
+I'm a **Full-Stack Developer with a strong focus on backend engineering**, currently pursuing B.Tech in Information Technology at Sri Krishna College of Technology, Coimbatore.
 
-My primary focus is building secure and maintainable backend applications using **Java, Spring Boot, Spring Security, REST APIs, JPA/Hibernate, and MySQL**. I enjoy designing production-oriented systems, applying clean architecture and SOLID principles, and solving challenging problems using strong **Data Structures & Algorithms** fundamentals.
+I build end-to-end applications using **Java, Spring Boot, Spring Security, REST APIs, React.js, and MySQL**, with particular interest in designing secure, scalable, and maintainable backend systems.
 
-I'm particularly interested in:
+On the frontend, I use **React.js** to build responsive interfaces and connect them with backend REST APIs. On the backend, I focus on **API architecture, authentication, database design, business logic, performance, and clean code**.
 
-* 🔹 Backend Engineering
-* 🔹 RESTful API Development
-* 🔹 Spring Boot & Spring Security
-* 🔹 Database Design & Optimization
+I enjoy combining full-stack development with strong **Data Structures & Algorithms, OOP, Low-Level Design, and System Design** fundamentals to build production-oriented software.
+
+### What I Focus On
+
+* 🔹 Full-Stack Web Development
+* 🔹 **Backend Engineering with Java & Spring Boot**
+* 🔹 React.js & REST API Integration
+* 🔹 Spring Security & JWT Authentication
+* 🔹 MySQL & Database Design
 * 🔹 Low-Level & System Design
-* 🔹 Cloud & Containerized Applications
+* 🔹 Docker & AWS
 * 🔹 Data Structures & Algorithms
 * 🔹 AI / Computer Vision
 
@@ -47,12 +52,16 @@ I'm particularly interested in:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-### Backend & Full Stack
+### Frontend
+
+![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+
+### Backend
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/JPA%2FHibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![REST API](https://img.shields.io/badge/REST_APIs-FF6B6B?style=for-the-badge)
 
 ### Database, Cloud & Tools
@@ -61,7 +70,6 @@ I'm particularly interested in:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
