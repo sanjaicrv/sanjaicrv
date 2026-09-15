@@ -4,7 +4,7 @@
 
 ### Backend-Focused Full Stack Developer • Java Engineer • System Design Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Backend+Focused;Java+%7C+Spring+Boot+%7C+React.js;REST+APIs+%7C+Spring+Security+%7C+MySQL;Building+Scalable+Full-Stack+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%7C+Backend+Focused;Java+%7C+Spring+Boot+%7C+React.js;REST+APIs+%7C+Spring+Security+%7C+MySQL;Building+Scalable+Full-Stack+Applications" />
 
 <br/>
 
@@ -19,11 +19,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer with a strong focus on backend engineering**, currently pursuing B.Tech in Information Technology at Sri Krishna College of Technology, Coimbatore.
+I'm a **Full-Stack Developer with a strong focus on backend engineering**, currently pursuing B.Tech in Information Technology at **Sri Krishna College of Technology, Coimbatore**.
 
-I build end-to-end applications using **Java, Spring Boot, Spring Security, REST APIs, React.js, and MySQL**, with particular interest in designing secure, scalable, and maintainable backend systems.
+I build end-to-end web applications using **Java, Spring Boot, Spring Security, REST APIs, React.js, TypeScript, and MySQL**, with particular interest in designing secure, scalable, and maintainable backend systems.
 
-On the frontend, I use **React.js** to build responsive interfaces and connect them with backend REST APIs. On the backend, I focus on **API architecture, authentication, database design, business logic, performance, and clean code**.
+On the frontend, I use **React.js and TypeScript** to build responsive user interfaces and integrate them with backend REST APIs. On the backend, I focus on **API architecture, authentication, business logic, database design, performance, and clean code**.
 
 I enjoy combining full-stack development with strong **Data Structures & Algorithms, OOP, Low-Level Design, and System Design** fundamentals to build production-oriented software.
 
@@ -31,7 +31,8 @@ I enjoy combining full-stack development with strong **Data Structures & Algorit
 
 * 🔹 Full-Stack Web Development
 * 🔹 **Backend Engineering with Java & Spring Boot**
-* 🔹 React.js & REST API Integration
+* 🔹 React.js & TypeScript
+* 🔹 RESTful API Development
 * 🔹 Spring Security & JWT Authentication
 * 🔹 MySQL & Database Design
 * 🔹 Low-Level & System Design
@@ -45,35 +46,36 @@ I enjoy combining full-stack development with strong **Data Structures & Algorit
 
 <div align="center">
 
-### Languages
+### 💻 Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-### Frontend
+### 🎨 Frontend
 
 ![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 
-### Backend
+### ⚙️ Backend
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/JPA%2FHibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-FF6B6B?style=for-the-badge)
 
-### Database, Cloud & Tools
+### 🗄️ Database, Cloud & Tools
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
-### AI / Computer Vision
+### 🤖 AI / Computer Vision
 
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-7B68EE?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge\&logo=opencv\&logoColor=white)
@@ -86,20 +88,21 @@ I enjoy combining full-stack development with strong **Data Structures & Algorit
 
 ### 💰 FinTrack Pro — Full-Stack Personal Finance Platform
 
-**Java 17 · Spring Boot · Spring Security · React · MySQL · Docker · AWS EC2**
+**Java 17 · Spring Boot · Spring Security · React · TypeScript · MySQL · Docker · AWS EC2**
 
-A secure full-stack personal finance platform designed for tracking, analyzing, and managing personal finances.
+A secure full-stack personal finance platform for tracking, analyzing, and managing personal finances.
 
-* 🔹 Designed and implemented **31+ REST APIs**
-* 🔹 Built income/expense tracking, savings goals, financial analytics, and interactive dashboards
+* 🔹 Designed and implemented **31+ RESTful APIs**
+* 🔹 Built income and expense tracking, savings goals, financial analytics, and interactive dashboards
 * 🔹 Implemented **bank statement import with duplicate detection**
-* 🔹 Added daily/category budgets, overspending alerts, monthly history, and savings tracking
-* 🔹 Generated PDF and Excel financial reports
+* 🔹 Added daily and category-based budgets with overspending alerts
+* 🔹 Implemented monthly financial history and savings tracking
+* 🔹 Generated **PDF and Excel financial reports**
 * 🔹 Implemented **JWT authentication** and OTP-based account recovery using SMTP
-* 🔹 Deployed the application on **AWS EC2**
+* 🔹 Deployed the backend application on **AWS EC2**
 
-🔗 [GitHub Repository](https://github.com/sanjaicrv/fintrack-pro-fullstack)
-🌐 [Live Demo](https://fin-track-pro-lac.vercel.app/landing)
+🔗 **[GitHub Repository](https://github.com/sanjaicrv/fintrack-pro-fullstack)**
+🌐 **[Live Demo](https://fin-track-pro-lac.vercel.app/landing)**
 
 ---
 
@@ -107,7 +110,7 @@ A secure full-stack personal finance platform designed for tracking, analyzing, 
 
 **Java 17 · Spring Boot · Spring Security · JWT · MySQL · Docker · Swagger**
 
-Production-oriented e-commerce backend designed using layered architecture and secure REST APIs.
+A production-oriented e-commerce backend built using layered architecture and secure REST APIs.
 
 * 🔹 Developed **55 REST API endpoints**
 * 🔹 Implemented authentication, product, inventory, cart, order, payment, and review modules
@@ -118,8 +121,8 @@ Production-oriented e-commerce backend designed using layered architecture and s
 * 🔹 Documented APIs using **Swagger/OpenAPI**
 * 🔹 Containerized the application using Docker
 
-🔗 [GitHub Repository](https://github.com/sanjaicrv/E-Commerce-Order-Processing-Backend-System)
-🌐 [API / Swagger](https://e-commerce-order-processing-backend.onrender.com/swagger-ui/index.html)
+🔗 **[GitHub Repository](https://github.com/sanjaicrv/E-Commerce-Order-Processing-Backend-System)**
+🌐 **[Swagger API](https://e-commerce-order-processing-backend.onrender.com/swagger-ui/index.html)**
 
 ---
 
@@ -129,15 +132,15 @@ Production-oriented e-commerce backend designed using layered architecture and s
 
 An extensible multi-floor parking management system designed to demonstrate object-oriented design and low-level system design principles.
 
-* 🔹 Designed multi-floor parking management architecture
+* 🔹 Designed a multi-floor parking management architecture
 * 🔹 Implemented vehicle entry/exit and ticketing workflows
 * 🔹 Used abstraction and polymorphism for different vehicle types
-* 🔹 Applied **SOLID principles** for maintainability
-* 🔹 Implemented **Strategy Pattern** for configurable parking spot allocation and fee calculation
-* 🔹 Used **Singleton Pattern** for centralized parking system management
+* 🔹 Applied **SOLID principles** for maintainability and extensibility
+* 🔹 Implemented the **Strategy Pattern** for configurable parking spot allocation and fee calculation
+* 🔹 Used the **Singleton Pattern** for centralized parking system management
 
-🔗 [GitHub Repository](https://github.com/sanjaicrv/ParkingLotSystem-LLD)
-🌐 [Live Demo](https://parking-lot-system-lld--727823tuit204.replit.app/)
+🔗 **[GitHub Repository](https://github.com/sanjaicrv/ParkingLotSystem-LLD)**
+🌐 **[Live Demo](https://parking-lot-system-lld--727823tuit204.replit.app/)**
 
 ---
 
@@ -150,15 +153,41 @@ An AI-powered computer vision system designed to automate jewellery quality insp
 * 🔹 Developing an automated jewellery defect detection workflow using **YOLOv8**
 * 🔹 Focused on detecting **missing stones in jewellery**
 * 🔹 Built image preprocessing and augmentation pipelines for model training
-* 🔹 Working on real-time object detection and inference
+* 🔹 Working on **real-time object detection and inference**
 * 🔹 Developing confidence visualization for detected defects
 * 🔹 Designed to reduce manual inspection effort through AI-powered quality control
 
-**Current Architecture:**
+### System Architecture
 
-`React` → `Spring Boot REST API` → `AI Inference Service` → `YOLOv8 Model` → `MySQL`
+```text
+                    ┌─────────────────────┐
+                    │      React.js       │
+                    │   Frontend Client   │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │    Spring Boot      │
+                    │     REST APIs       │
+                    └──────────┬──────────┘
+                               │
+                    ┌──────────┴──────────┐
+                    │                     │
+                    ▼                     ▼
+             ┌─────────────┐      ┌─────────────┐
+             │    MySQL    │      │ AI Inference│
+             │   Database  │      │   Service   │
+             └─────────────┘      └──────┬──────┘
+                                         │
+                                         ▼
+                                  ┌─────────────┐
+                                  │   YOLOv8    │
+                                  │ Object      │
+                                  │ Detection   │
+                                  └─────────────┘
+```
 
-🔗 [GitHub](https://github.com/sanjaicrv)
+🔗 **[GitHub Profile](https://github.com/sanjaicrv)**
 
 ---
 
@@ -179,25 +208,27 @@ An AI-powered computer vision system designed to automate jewellery quality insp
 
 ## 🏆 Achievements
 
-* 🥇 **4th Place — Netrix'25 Codethon, KPR Institute**
+### 🥇 4th Place — Netrix'25 Codethon
 
-  * Outranked **100+ participants** in an algorithmic coding competition focused on Data Structures and Algorithms.
+**KPR Institute**
 
-* 🏅 **Finalist — Yugam 2025 Code Event**
+Outranked **100+ participants** in an algorithmic coding competition focused on Data Structures and Algorithms.
 
-  * Qualified through multiple elimination rounds of competitive programming.
+### 🏅 Finalist — Yugam 2025 Code Event
 
-* 💻 **400+ Problems Solved**
+Qualified through multiple elimination rounds of competitive programming in Data Structures and Algorithms.
 
-  * Solved problems across Arrays, Trees, Graphs, Dynamic Programming, Backtracking, Sliding Window, and other DSA topics on LeetCode and GeeksforGeeks.
+### 💻 400+ Problems Solved
 
-* 🇮🇳 **Participant — Smart India Hackathon 2024**
+Solved **400+ problems** across Arrays, Trees, Graphs, Dynamic Programming, Backtracking, Sliding Window, and other DSA topics on LeetCode and GeeksforGeeks.
 
-  * Developed an AI-powered **Gunshot Detection System** using sound localization and machine learning for real-time threat identification.
+### 🇮🇳 Smart India Hackathon 2024
 
-* 🤖 **NLP Workshop — Microsoft, Bangalore**
+Participated in Smart India Hackathon and developed an **AI-powered Gunshot Detection System** using sound localization and machine learning for real-time threat identification.
 
-  * Gained exposure to transformer-based NLP models and enterprise AI pipelines.
+### 🤖 NLP Workshop — Microsoft, Bangalore
+
+Participated in an NLP workshop and gained exposure to **transformer-based NLP models and enterprise AI pipelines**.
 
 ---
 
@@ -205,10 +236,11 @@ An AI-powered computer vision system designed to automate jewellery quality insp
 
 * Data Structures & Algorithms
 * Object-Oriented Programming
-* DBMS
+* Database Management Systems
 * Operating Systems
 * Computer Networks
 * Low-Level Design
+* System Design
 * Design Patterns
 * REST API Architecture
 * Database Design
@@ -217,23 +249,37 @@ An AI-powered computer vision system designed to automate jewellery quality insp
 
 ## 🎯 Current Focus
 
+<div align="center">
+
 ```text
-Java & Spring Boot
-        ↓
-Backend Engineering
-        ↓
-REST API Development
-        ↓
-Spring Security & JWT
-        ↓
-Database Design & Optimization
-        ↓
-Docker & AWS
-        ↓
-Low-Level & System Design
+                    Full-Stack Development
+                            │
+              ┌─────────────┴─────────────┐
+              ▼                           ▼
+        React.js + TypeScript       Java + Spring Boot
+              │                           │
+              ▼                           ▼
+       Frontend Development        Backend Engineering
+                                          │
+                                          ▼
+                                   REST API Development
+                                          │
+                                          ▼
+                               Spring Security + JWT
+                                          │
+                                          ▼
+                              MySQL + Database Design
+                                          │
+                                          ▼
+                                   Docker + AWS
+                                          │
+                                          ▼
+                               Low-Level + System Design
 ```
 
-Currently focused on becoming a **strong backend-oriented software engineer** with solid DSA, system design, and production development skills.
+</div>
+
+I'm currently focused on becoming a **strong backend-oriented full-stack software engineer** with solid foundations in DSA, system design, databases, cloud deployment, and production-grade application development.
 
 ---
 
@@ -241,7 +287,7 @@ Currently focused on becoming a **strong backend-oriented software engineer** wi
 
 <div align="center">
 
-### 400+ Problems Solved
+### 💻 400+ Problems Solved
 
 **LeetCode • GeeksforGeeks**
 
@@ -253,13 +299,30 @@ Currently focused on becoming a **strong backend-oriented software engineer** wi
 
 ---
 
+## 🌱 What I'm Learning
+
+* Advanced Spring Boot
+* Spring Security
+* REST API Design
+* Database Optimization
+* Low-Level Design
+* System Design
+* Docker & Cloud Deployment
+* Advanced Data Structures & Algorithms
+* Scalable Backend Architecture
+
+---
+
 ## 🤝 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sanjai-crv-3b4813292/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/sanjaicrv)
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-400%2B-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/sanjaicrv)
+
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sanjaicrv05@gmail.com)
 
 </div>
@@ -267,6 +330,8 @@ Currently focused on becoming a **strong backend-oriented software engineer** wi
 ---
 
 <div align="center">
+
+### 🚀 Building. Learning. Solving.
 
 *"Building secure, scalable, and maintainable software that solves real-world problems."*
 
