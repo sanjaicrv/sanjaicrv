@@ -1,42 +1,51 @@
-# Hi, I'm Sanjai CRV
+# Hi, I'm Sanjai CRV 👋
 
 <div align="center">
 
 ### Backend-Focused Full Stack Developer • Java Engineer • System Design Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Spring+Boot+%7C+React+%7C+MySQL;Clean+Architecture+%7C+System+Design;Always+Learning+and+Building" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Java+%7C+Spring+Boot+%7C+MySQL;REST+APIs+%7C+Spring+Security;Clean+Architecture+%7C+System+Design" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanjai_CRV-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sanjai-crv-3b4813292)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanjai_CRV-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sanjai-crv-3b4813292/)
 [![GitHub](https://img.shields.io/badge/GitHub-sanjaicrv-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/sanjaicrv)
-[![LeetCode](https://img.shields.io/badge/LeetCode-300%2B_Problems-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-400%2B_Problems-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/sanjaicrv)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sanjaicrv05@gmail.com)
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I’m a software engineering student focused on backend engineering, scalable system design, and production-grade application development.
+I'm a **B.Tech Information Technology student** at Sri Krishna College of Technology, Coimbatore, with a strong interest in **backend engineering, scalable systems, and software development**.
 
-My primary interest lies in building reliable backend systems with clean architecture, optimized databases, secure APIs, and maintainable codebases. I enjoy combining strong computer science fundamentals with practical full-stack development to create real-world applications.
+My primary focus is building secure and maintainable backend applications using **Java, Spring Boot, Spring Security, REST APIs, JPA/Hibernate, and MySQL**. I enjoy designing production-oriented systems, applying clean architecture and SOLID principles, and solving challenging problems using strong **Data Structures & Algorithms** fundamentals.
 
-Currently pursuing B.Tech in Information Technology at Sri Krishna College of Technology, Coimbatore.
+I'm particularly interested in:
+
+* 🔹 Backend Engineering
+* 🔹 RESTful API Development
+* 🔹 Spring Boot & Spring Security
+* 🔹 Database Design & Optimization
+* 🔹 Low-Level & System Design
+* 🔹 Cloud & Containerized Applications
+* 🔹 Data Structures & Algorithms
+* 🔹 AI / Computer Vision
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 ### Backend & Full Stack
 
@@ -44,7 +53,7 @@ Currently pursuing B.Tech in Information Technology at Sri Krishna College of Te
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/JPA%2FHibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6B6B?style=for-the-badge)
 
 ### Database, Cloud & Tools
 
@@ -52,6 +61,8 @@ Currently pursuing B.Tech in Information Technology at Sri Krishna College of Te
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ### AI / Computer Vision
@@ -63,79 +74,184 @@ Currently pursuing B.Tech in Information Technology at Sri Krishna College of Te
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### FinTrack Pro — Full Stack Finance Platform
+### 💰 FinTrack Pro — Full-Stack Personal Finance Platform
 
-Production-grade finance management platform built using Spring Boot, React, MySQL, and JWT authentication.
+**Java 17 · Spring Boot · Spring Security · React · MySQL · Docker · AWS EC2**
 
-* Designed and developed 15+ secured RESTful APIs
-* Implemented authentication and authorization using Spring Security + JWT
-* Built analytics dashboards for financial tracking and savings management
-* Optimized SQL queries and database indexing for better performance
-* Containerized backend with Docker and deployed to cloud platforms
+A secure full-stack personal finance platform designed for tracking, analyzing, and managing personal finances.
 
-**Tech Stack:**
-`Spring Boot` `React.js` `TypeScript` `MySQL` `Docker`
+* 🔹 Designed and implemented **31+ REST APIs**
+* 🔹 Built income/expense tracking, savings goals, financial analytics, and interactive dashboards
+* 🔹 Implemented **bank statement import with duplicate detection**
+* 🔹 Added daily/category budgets, overspending alerts, monthly history, and savings tracking
+* 🔹 Generated PDF and Excel financial reports
+* 🔹 Implemented **JWT authentication** and OTP-based account recovery using SMTP
+* 🔹 Deployed the application on **AWS EC2**
 
----
-
-### Parking Lot Management System — Low-Level Design
-
-Scalable parking management system designed using SOLID principles and object-oriented design patterns.
-
-* Implemented Strategy, Factory, and Singleton design patterns
-* Achieved O(1) slot allocation using optimized HashMap indexing
-* Supported EV-priority and nearest-slot allocation strategies
-* Built layered architecture focused on scalability and maintainability
-
-**Tech Stack:**
-`Java` `OOP` `Design Patterns` `Collections Framework`
+🔗 [GitHub Repository](https://github.com/sanjaicrv/fintrack-pro-fullstack)
+🌐 [Live Demo](https://fin-track-pro-lac.vercel.app/landing)
 
 ---
 
-### AI-Powered Jewellery Defect Detection System
+### 🛒 Order Processing Backend System
 
-Computer vision system for automated jewellery defect detection using YOLOv8.
+**Java 17 · Spring Boot · Spring Security · JWT · MySQL · Docker · Swagger**
 
-* Developing industrial inspection workflows using YOLOv8 and OpenCV
-* Built preprocessing and augmentation pipelines for training datasets
-* Working on real-time inference dashboard with confidence visualization
-* Focused on reducing manual inspection effort through AI automation
+Production-oriented e-commerce backend designed using layered architecture and secure REST APIs.
 
-**Tech Stack:**
-`Python` `YOLOv8` `OpenCV` `Roboflow`
+* 🔹 Developed **55 REST API endpoints**
+* 🔹 Implemented authentication, product, inventory, cart, order, payment, and review modules
+* 🔹 Implemented **JWT authentication and role-based access control**
+* 🔹 Added centralized exception handling using Spring Security
+* 🔹 Designed a **transactional checkout workflow using `@Transactional`**
+* 🔹 Integrated MySQL using Spring Data JPA
+* 🔹 Documented APIs using **Swagger/OpenAPI**
+* 🔹 Containerized the application using Docker
 
----
-
-## Achievements
-
-* 4th Place — Netrix'25 Codethon at KPR Institute
-* Finalist — Yugam 2025 Competitive Coding Event
-* Participant — Smart India Hackathon 2024
-* NLP Workshop Participant — Microsoft Bangalore
-* Solved 300+ LeetCode problems across major DSA topics
+🔗 [GitHub Repository](https://github.com/sanjaicrv/E-Commerce-Order-Processing-Backend-System)
+🌐 [API / Swagger](https://e-commerce-order-processing-backend.onrender.com/swagger-ui/index.html)
 
 ---
 
-## Current Focus
+### 🅿️ Parking Lot Management System — Low-Level Design
 
-* Backend engineering with Spring Boot
-* Scalable system design
-* Cloud-native application deployment
-* Low-Level Design and clean architecture
-* Performance optimization and API engineering
+**Java · OOP · SOLID Principles · Strategy Pattern · Singleton**
+
+An extensible multi-floor parking management system designed to demonstrate object-oriented design and low-level system design principles.
+
+* 🔹 Designed multi-floor parking management architecture
+* 🔹 Implemented vehicle entry/exit and ticketing workflows
+* 🔹 Used abstraction and polymorphism for different vehicle types
+* 🔹 Applied **SOLID principles** for maintainability
+* 🔹 Implemented **Strategy Pattern** for configurable parking spot allocation and fee calculation
+* 🔹 Used **Singleton Pattern** for centralized parking system management
+
+🔗 [GitHub Repository](https://github.com/sanjaicrv/ParkingLotSystem-LLD)
+🌐 [Live Demo](https://parking-lot-system-lld--727823tuit204.replit.app/)
 
 ---
 
-## Connect With Me
+### 💎 AI-Powered Jewellery Defect Detection System
+
+**Python · YOLOv8 · OpenCV · Roboflow**
+
+An AI-powered computer vision system designed to automate jewellery quality inspection using object detection.
+
+* 🔹 Developing an automated jewellery defect detection workflow using **YOLOv8**
+* 🔹 Focused on detecting **missing stones in jewellery**
+* 🔹 Built image preprocessing and augmentation pipelines for model training
+* 🔹 Working on real-time object detection and inference
+* 🔹 Developing confidence visualization for detected defects
+* 🔹 Designed to reduce manual inspection effort through AI-powered quality control
+
+**Current Architecture:**
+
+`React` → `Spring Boot REST API` → `AI Inference Service` → `YOLOv8 Model` → `MySQL`
+
+🔗 [GitHub](https://github.com/sanjaicrv)
+
+---
+
+## 💼 Experience
+
+### Backend Developer Intern — Aham Global Business Pvt. Ltd.
+
+**May 2026 – June 2026 · Onsite**
+
+* 🔹 Developed and validated **RESTful APIs** using Java, Spring Boot, MySQL, and Swagger UI
+* 🔹 Supported backend business workflows using layered architecture
+* 🔹 Implemented **JWT authentication** and Spring Security role-based authorization
+* 🔹 Designed MySQL interaction layers using Spring Data JPA
+* 🔹 Used Git and GitHub for version control
+* 🔹 Worked with Docker for containerization and deployment
+
+---
+
+## 🏆 Achievements
+
+* 🥇 **4th Place — Netrix'25 Codethon, KPR Institute**
+
+  * Outranked **100+ participants** in an algorithmic coding competition focused on Data Structures and Algorithms.
+
+* 🏅 **Finalist — Yugam 2025 Code Event**
+
+  * Qualified through multiple elimination rounds of competitive programming.
+
+* 💻 **400+ Problems Solved**
+
+  * Solved problems across Arrays, Trees, Graphs, Dynamic Programming, Backtracking, Sliding Window, and other DSA topics on LeetCode and GeeksforGeeks.
+
+* 🇮🇳 **Participant — Smart India Hackathon 2024**
+
+  * Developed an AI-powered **Gunshot Detection System** using sound localization and machine learning for real-time threat identification.
+
+* 🤖 **NLP Workshop — Microsoft, Bangalore**
+
+  * Gained exposure to transformer-based NLP models and enterprise AI pipelines.
+
+---
+
+## 📚 Core Computer Science
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* DBMS
+* Operating Systems
+* Computer Networks
+* Low-Level Design
+* Design Patterns
+* REST API Architecture
+* Database Design
+
+---
+
+## 🎯 Current Focus
+
+```text
+Java & Spring Boot
+        ↓
+Backend Engineering
+        ↓
+REST API Development
+        ↓
+Spring Security & JWT
+        ↓
+Database Design & Optimization
+        ↓
+Docker & AWS
+        ↓
+Low-Level & System Design
+```
+
+Currently focused on becoming a **strong backend-oriented software engineer** with solid DSA, system design, and production development skills.
+
+---
+
+## 📊 Coding Journey
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sanjai-crv-3b4813292)
+### 400+ Problems Solved
 
+**LeetCode • GeeksforGeeks**
+
+<br/>
+
+<img src="https://leetcard.jacoblin.cool/sanjaicrv?theme=dark&font=baloo&ext=heatmap" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sanjai-crv-3b4813292/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/sanjaicrv)
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-400%2B-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/sanjaicrv)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sanjaicrv05@gmail.com)
 
 </div>
@@ -144,6 +260,6 @@ Computer vision system for automated jewellery defect detection using YOLOv8.
 
 <div align="center">
 
-*"Focused on building software that is scalable, maintainable, and engineered for real-world impact."*
+*"Building secure, scalable, and maintainable software that solves real-world problems."*
 
 </div>
